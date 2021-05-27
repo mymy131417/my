@@ -9,6 +9,6 @@ package com.example.my.test;
 public class TestController {
 
     private void printWord(){
-        System.out.println("操作成功");
+        System.out.println("操作成功!!!!");
     }
 }
